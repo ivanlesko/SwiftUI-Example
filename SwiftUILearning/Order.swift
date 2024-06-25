@@ -9,7 +9,7 @@
 import SwiftUI
 
 class Order {
-    var items = [MenuItem]()
+    @Published var items = [MenuItem]()
 
     var total: Int {
         if items.count > 0 {
