@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-class Order {
+class Order: ObservableObject {
     @Published var items = [MenuItem]()
 
     var total: Int {
