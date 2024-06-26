@@ -17,7 +17,7 @@ struct ItemRow: View {
                                        "S": .blue,
                                        "V": .green]
         NavigationLink {
-            Text(item.name)
+            ItemDetail(item: item)
         } label: {
             HStack {
                 Image(item.thumbnailImage)

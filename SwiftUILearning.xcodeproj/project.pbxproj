@@ -18,6 +18,7 @@
 		4E9F9A582C0D9A6C0004B8E3 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9F9A572C0D9A6C0004B8E3 /* ItemRow.swift */; };
 		4EEA7F452C2B75AF00EBF5A5 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEA7F442C2B75AF00EBF5A5 /* ItemDetail.swift */; };
 		4EEA7F472C2B7E6600EBF5A5 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEA7F462C2B7E6600EBF5A5 /* OrderView.swift */; };
+		4EEA7F492C2BDF4900EBF5A5 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEA7F482C2BDF4900EBF5A5 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		4E9F9A572C0D9A6C0004B8E3 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		4EEA7F442C2B75AF00EBF5A5 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		4EEA7F462C2B7E6600EBF5A5 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		4EEA7F482C2BDF4900EBF5A5 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				4E9F9A3F2C0D2E700004B8E3 /* SwiftUILearningApp.swift */,
 				4E9F9A412C0D2E700004B8E3 /* ContentView.swift */,
 				4E9F9A572C0D9A6C0004B8E3 /* ItemRow.swift */,
+				4EEA7F482C2BDF4900EBF5A5 /* MainView.swift */,
 				4E9F9A432C0D2E700004B8E3 /* Assets.xcassets */,
 				4E9F9A4D2C0D304C0004B8E3 /* Helper.swift */,
 				4E9F9A502C0D30610004B8E3 /* menu.json */,
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EEA7F452C2B75AF00EBF5A5 /* ItemDetail.swift in Sources */,
+				4EEA7F492C2BDF4900EBF5A5 /* MainView.swift in Sources */,
 				4EEA7F472C2B7E6600EBF5A5 /* OrderView.swift in Sources */,
 				4E9F9A422C0D2E700004B8E3 /* ContentView.swift in Sources */,
 				4E9F9A402C0D2E700004B8E3 /* SwiftUILearningApp.swift in Sources */,
