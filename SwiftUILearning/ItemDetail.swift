@@ -2,7 +2,7 @@
 //  ItemDetail.swift
 //  SwiftUILearning
 //
-//  Created by Ivan Lesko on 6/25/24.
+//  Created by Ivan L on 6/25/24.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  ItemRow.swift
 //  SwiftUILearning
 //
-//  Created by Ivan Lesko on 6/2/24.
+//  Created by Ivan L on 6/2/24.
 //
 
 import SwiftUI
