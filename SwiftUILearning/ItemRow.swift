@@ -23,16 +23,16 @@ struct ItemRow: View {
                 Image(item.thumbnailImage)
                     .clipShape(Circle())
                     .overlay(Capsule().stroke(.black, lineWidth: 2))
-                
+
                 VStack(alignment: .leading) {
                     Text(item.name)
                         .font(.headline)
                     Text("$\(item.price)")
                 }
-                
+
                 Spacer()
-                    
-                
+
+
                 ForEach(item.restrictions, id: \.self) { restriction in
                     Text(restriction)
                         .font(.caption)
@@ -42,7 +42,7 @@ struct ItemRow: View {
                         .clipShape(Circle())
                         .foregroundStyle(.white)
                 }
-                
+
                 Spacer()
                     .frame(width: 20)
             }

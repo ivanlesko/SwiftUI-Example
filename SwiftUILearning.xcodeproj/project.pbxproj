@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E2AC7B12C419CD700E4A85A /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2AC7B02C419CD700E4A85A /* CheckoutView.swift */; };
 		4E9F9A402C0D2E700004B8E3 /* SwiftUILearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9F9A3F2C0D2E700004B8E3 /* SwiftUILearningApp.swift */; };
 		4E9F9A422C0D2E700004B8E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9F9A412C0D2E700004B8E3 /* ContentView.swift */; };
 		4E9F9A442C0D2E700004B8E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E9F9A432C0D2E700004B8E3 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E2AC7B02C419CD700E4A85A /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		4E9F9A3C2C0D2E700004B8E3 /* SwiftUILearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUILearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E9F9A3F2C0D2E700004B8E3 /* SwiftUILearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUILearningApp.swift; sourceTree = "<group>"; };
 		4E9F9A412C0D2E700004B8E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				4E9F9A452C0D2E700004B8E3 /* Preview Content */,
 				4EEA7F442C2B75AF00EBF5A5 /* ItemDetail.swift */,
 				4EEA7F462C2B7E6600EBF5A5 /* OrderView.swift */,
+				4E2AC7B02C419CD700E4A85A /* CheckoutView.swift */,
 			);
 			path = SwiftUILearning;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			files = (
 				4EEA7F452C2B75AF00EBF5A5 /* ItemDetail.swift in Sources */,
 				4EEA7F492C2BDF4900EBF5A5 /* MainView.swift in Sources */,
+				4E2AC7B12C419CD700E4A85A /* CheckoutView.swift in Sources */,
 				4EEA7F472C2B7E6600EBF5A5 /* OrderView.swift in Sources */,
 				4E9F9A422C0D2E700004B8E3 /* ContentView.swift in Sources */,
 				4E9F9A402C0D2E700004B8E3 /* SwiftUILearningApp.swift in Sources */,
